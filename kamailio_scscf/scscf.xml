@@ -16,7 +16,7 @@
 >
 	<Peer FQDN="hss.ims.mnc001.mcc001.3gppnetwork.org" Realm="ims.mnc001.mcc001.3gppnetwork.org" port="3868"/>
 		
-	<Acceptor port="3870" bind="172.16.20.21"/>
+	<Acceptor port="3870" bind="10.200.10.22"/>
 
 	<Auth id="16777216" vendor="10415"/><!-- 3GPP Cx -->
 	<Auth id="16777216" vendor="4491"/><!-- CableLabs Cx -->
