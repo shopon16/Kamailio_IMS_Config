@@ -8,6 +8,6 @@ $TTL 1W
                                         1D )            ; minimum
 
                         1D IN NS        epcns
-epcns                   1D IN A         10.148.0.10
+epcns                   1D IN A         10.200.10.99
 
 pcrf                    1D IN A         127.0.0.5
